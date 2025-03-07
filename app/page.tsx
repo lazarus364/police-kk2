@@ -123,19 +123,19 @@ export default function HomePage() {
                     <div className="space-y-2 w-full">
                       <div className="flex justify-between items-center">
                         <span className="font-medium">Emergency:</span>
-                        <span className="text-lg">911</span>
+                        <span className="text-lg">999</span>
                       </div>
                       <div className="flex justify-between items-center">
                         <span className="font-medium">Non-Emergency:</span>
-                        <span>(555) 123-4567</span>
+                        <span>+254 700 254 254</span>
                       </div>
                       <div className="flex justify-between items-center">
                         <span className="font-medium">Anonymous Tip Line:</span>
-                        <span>(555) 765-4321</span>
+                        <span>+254 700 254 154</span>
                       </div>
                       <div className="flex justify-between items-center">
                         <span className="font-medium">Victim Support:</span>
-                        <span>(555) 987-6543</span>
+                        <span>+254 700 254 200</span>
                       </div>
                     </div>
                   </div>
@@ -153,17 +153,17 @@ export default function HomePage() {
                     <div className="space-y-4 w-full text-left">
                       <div>
                         <p className="font-medium">Main Headquarters</p>
-                        <p className="text-sm text-muted-foreground">123 Main Street, Cityville</p>
+                        <p className="text-sm text-muted-foreground">1234 Uganda Road, Uasin Gishu</p>
                         <p className="text-sm text-muted-foreground">Open 24/7</p>
                       </div>
                       <div>
                         <p className="font-medium">North District Station</p>
-                        <p className="text-sm text-muted-foreground">456 Oak Avenue, Cityville</p>
+                        <p className="text-sm text-muted-foreground">456 Main Centre, Uasin Gishu</p>
                         <p className="text-sm text-muted-foreground">Open 24/7</p>
                       </div>
                       <div>
                         <p className="font-medium">South District Station</p>
-                        <p className="text-sm text-muted-foreground">789 Pine Road, Cityville</p>
+                        <p className="text-sm text-muted-foreground">739 City Avenue, Uasin Gishu</p>
                         <p className="text-sm text-muted-foreground">Open 24/7</p>
                       </div>
                     </div>
